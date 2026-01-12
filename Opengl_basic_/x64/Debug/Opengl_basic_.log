@@ -1,3 +1,2 @@
 ﻿  Main.cpp
-E:\Roblox_new_2026\OpenGL_Basic_\Opengl_basic_\Main.cpp(175,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
   Opengl_basic_.vcxproj -> E:\Roblox_new_2026\OpenGL_Basic_\Opengl_basic_\x64\Debug\Opengl_basic_.exe
